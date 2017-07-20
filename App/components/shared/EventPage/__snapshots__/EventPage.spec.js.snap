@@ -352,6 +352,37 @@ exports[`<EventPage /> should not render the description when the event has no d
             }
           }
         />
+        <ThemeProvider
+          uiTheme={
+            Object {
+              "palette": Object {
+                "accentColor": "#FF7575",
+                "alternateTextColor": "white",
+                "primaryColor": "#FF7575",
+                "primaryTextColor": "black",
+                "secondaryColor": "#CC5D5D",
+              },
+              "spacing": Object {
+                "miniActionButtonSize": 42,
+              },
+              "toolbar": Object {
+                "container": Object {
+                  "height": 50,
+                },
+              },
+              "typography": Object {
+                "fontSize": Object {
+                  "display": 25,
+                },
+                "subheading": Object {
+                  "fontSize": 16,
+                  "fontWeight": "normal",
+                  "lineHeight": 24,
+                },
+              },
+            }
+          }
+        />
       </View>
       <ThemeProvider
         uiTheme={
@@ -495,6 +526,37 @@ exports[`<EventPage /> should not render the location when the event has no loca
           }
         }
       >
+        <ThemeProvider
+          uiTheme={
+            Object {
+              "palette": Object {
+                "accentColor": "#FF7575",
+                "alternateTextColor": "white",
+                "primaryColor": "#FF7575",
+                "primaryTextColor": "black",
+                "secondaryColor": "#CC5D5D",
+              },
+              "spacing": Object {
+                "miniActionButtonSize": 42,
+              },
+              "toolbar": Object {
+                "container": Object {
+                  "height": 50,
+                },
+              },
+              "typography": Object {
+                "fontSize": Object {
+                  "display": 25,
+                },
+                "subheading": Object {
+                  "fontSize": 16,
+                  "fontWeight": "normal",
+                  "lineHeight": 24,
+                },
+              },
+            }
+          }
+        />
         <ThemeProvider
           uiTheme={
             Object {
@@ -762,6 +824,37 @@ exports[`<EventPage /> should not render the volunteer when the event has no vol
             }
           }
         />
+        <ThemeProvider
+          uiTheme={
+            Object {
+              "palette": Object {
+                "accentColor": "#FF7575",
+                "alternateTextColor": "white",
+                "primaryColor": "#FF7575",
+                "primaryTextColor": "black",
+                "secondaryColor": "#CC5D5D",
+              },
+              "spacing": Object {
+                "miniActionButtonSize": 42,
+              },
+              "toolbar": Object {
+                "container": Object {
+                  "height": 50,
+                },
+              },
+              "typography": Object {
+                "fontSize": Object {
+                  "display": 25,
+                },
+                "subheading": Object {
+                  "fontSize": 16,
+                  "fontWeight": "normal",
+                  "lineHeight": 24,
+                },
+              },
+            }
+          }
+        />
       </View>
       <ThemeProvider
         uiTheme={
@@ -905,6 +998,37 @@ exports[`<EventPage /> should render correctly 1`] = `
           }
         }
       >
+        <ThemeProvider
+          uiTheme={
+            Object {
+              "palette": Object {
+                "accentColor": "#FF7575",
+                "alternateTextColor": "white",
+                "primaryColor": "#FF7575",
+                "primaryTextColor": "black",
+                "secondaryColor": "#CC5D5D",
+              },
+              "spacing": Object {
+                "miniActionButtonSize": 42,
+              },
+              "toolbar": Object {
+                "container": Object {
+                  "height": 50,
+                },
+              },
+              "typography": Object {
+                "fontSize": Object {
+                  "display": 25,
+                },
+                "subheading": Object {
+                  "fontSize": 16,
+                  "fontWeight": "normal",
+                  "lineHeight": 24,
+                },
+              },
+            }
+          }
+        />
         <ThemeProvider
           uiTheme={
             Object {
