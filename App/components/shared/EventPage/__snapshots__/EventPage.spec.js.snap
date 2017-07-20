@@ -148,37 +148,6 @@ exports[`<EventPage /> should not render the date when the event has no start da
           }
         />
       </View>
-      <ThemeProvider
-        uiTheme={
-          Object {
-            "palette": Object {
-              "accentColor": "#FF7575",
-              "alternateTextColor": "white",
-              "primaryColor": "#FF7575",
-              "primaryTextColor": "black",
-              "secondaryColor": "#CC5D5D",
-            },
-            "spacing": Object {
-              "miniActionButtonSize": 42,
-            },
-            "toolbar": Object {
-              "container": Object {
-                "height": 50,
-              },
-            },
-            "typography": Object {
-              "fontSize": Object {
-                "display": 25,
-              },
-              "subheading": Object {
-                "fontSize": 16,
-                "fontWeight": "normal",
-                "lineHeight": 24,
-              },
-            },
-          }
-        }
-      />
     </View>
   </RCTScrollView>
   <ThemeProvider
@@ -384,37 +353,6 @@ exports[`<EventPage /> should not render the description when the event has no d
           }
         />
       </View>
-      <ThemeProvider
-        uiTheme={
-          Object {
-            "palette": Object {
-              "accentColor": "#FF7575",
-              "alternateTextColor": "white",
-              "primaryColor": "#FF7575",
-              "primaryTextColor": "black",
-              "secondaryColor": "#CC5D5D",
-            },
-            "spacing": Object {
-              "miniActionButtonSize": 42,
-            },
-            "toolbar": Object {
-              "container": Object {
-                "height": 50,
-              },
-            },
-            "typography": Object {
-              "fontSize": Object {
-                "display": 25,
-              },
-              "subheading": Object {
-                "fontSize": 16,
-                "fontWeight": "normal",
-                "lineHeight": 24,
-              },
-            },
-          }
-        }
-      />
     </View>
   </RCTScrollView>
   <ThemeProvider
@@ -620,37 +558,6 @@ exports[`<EventPage /> should not render the location when the event has no loca
           }
         />
       </View>
-      <ThemeProvider
-        uiTheme={
-          Object {
-            "palette": Object {
-              "accentColor": "#FF7575",
-              "alternateTextColor": "white",
-              "primaryColor": "#FF7575",
-              "primaryTextColor": "black",
-              "secondaryColor": "#CC5D5D",
-            },
-            "spacing": Object {
-              "miniActionButtonSize": 42,
-            },
-            "toolbar": Object {
-              "container": Object {
-                "height": 50,
-              },
-            },
-            "typography": Object {
-              "fontSize": Object {
-                "display": 25,
-              },
-              "subheading": Object {
-                "fontSize": 16,
-                "fontWeight": "normal",
-                "lineHeight": 24,
-              },
-            },
-          }
-        }
-      />
     </View>
   </RCTScrollView>
   <ThemeProvider
@@ -856,37 +763,6 @@ exports[`<EventPage /> should not render the volunteer when the event has no vol
           }
         />
       </View>
-      <ThemeProvider
-        uiTheme={
-          Object {
-            "palette": Object {
-              "accentColor": "#FF7575",
-              "alternateTextColor": "white",
-              "primaryColor": "#FF7575",
-              "primaryTextColor": "black",
-              "secondaryColor": "#CC5D5D",
-            },
-            "spacing": Object {
-              "miniActionButtonSize": 42,
-            },
-            "toolbar": Object {
-              "container": Object {
-                "height": 50,
-              },
-            },
-            "typography": Object {
-              "fontSize": Object {
-                "display": 25,
-              },
-              "subheading": Object {
-                "fontSize": 16,
-                "fontWeight": "normal",
-                "lineHeight": 24,
-              },
-            },
-          }
-        }
-      />
     </View>
   </RCTScrollView>
   <ThemeProvider
@@ -945,6 +821,242 @@ exports[`<EventPage /> should not render the volunteer when the event has no vol
 `;
 
 exports[`<EventPage /> should render correctly 1`] = `
+<View
+  style={
+    Object {
+      "flex": 1,
+    }
+  }
+>
+  <ThemeProvider
+    uiTheme={
+      Object {
+        "palette": Object {
+          "accentColor": "#FF7575",
+          "alternateTextColor": "white",
+          "primaryColor": "#FF7575",
+          "primaryTextColor": "black",
+          "secondaryColor": "#CC5D5D",
+        },
+        "spacing": Object {
+          "miniActionButtonSize": 42,
+        },
+        "toolbar": Object {
+          "container": Object {
+            "height": 50,
+          },
+        },
+        "typography": Object {
+          "fontSize": Object {
+            "display": 25,
+          },
+          "subheading": Object {
+            "fontSize": 16,
+            "fontWeight": "normal",
+            "lineHeight": 24,
+          },
+        },
+      }
+    }
+  />
+  <RCTScrollView
+    style={
+      Object {
+        "paddingTop": 22,
+      }
+    }
+  >
+    <View>
+      <View
+        style={
+          Object {
+            "marginBottom": 24,
+          }
+        }
+      >
+        <ThemeProvider
+          uiTheme={
+            Object {
+              "palette": Object {
+                "accentColor": "#FF7575",
+                "alternateTextColor": "white",
+                "primaryColor": "#FF7575",
+                "primaryTextColor": "black",
+                "secondaryColor": "#CC5D5D",
+              },
+              "spacing": Object {
+                "miniActionButtonSize": 42,
+              },
+              "toolbar": Object {
+                "container": Object {
+                  "height": 50,
+                },
+              },
+              "typography": Object {
+                "fontSize": Object {
+                  "display": 25,
+                },
+                "subheading": Object {
+                  "fontSize": 16,
+                  "fontWeight": "normal",
+                  "lineHeight": 24,
+                },
+              },
+            }
+          }
+        />
+        <ThemeProvider
+          uiTheme={
+            Object {
+              "palette": Object {
+                "accentColor": "#FF7575",
+                "alternateTextColor": "white",
+                "primaryColor": "#FF7575",
+                "primaryTextColor": "black",
+                "secondaryColor": "#CC5D5D",
+              },
+              "spacing": Object {
+                "miniActionButtonSize": 42,
+              },
+              "toolbar": Object {
+                "container": Object {
+                  "height": 50,
+                },
+              },
+              "typography": Object {
+                "fontSize": Object {
+                  "display": 25,
+                },
+                "subheading": Object {
+                  "fontSize": 16,
+                  "fontWeight": "normal",
+                  "lineHeight": 24,
+                },
+              },
+            }
+          }
+        />
+        <ThemeProvider
+          uiTheme={
+            Object {
+              "palette": Object {
+                "accentColor": "#FF7575",
+                "alternateTextColor": "white",
+                "primaryColor": "#FF7575",
+                "primaryTextColor": "black",
+                "secondaryColor": "#CC5D5D",
+              },
+              "spacing": Object {
+                "miniActionButtonSize": 42,
+              },
+              "toolbar": Object {
+                "container": Object {
+                  "height": 50,
+                },
+              },
+              "typography": Object {
+                "fontSize": Object {
+                  "display": 25,
+                },
+                "subheading": Object {
+                  "fontSize": 16,
+                  "fontWeight": "normal",
+                  "lineHeight": 24,
+                },
+              },
+            }
+          }
+        />
+        <ThemeProvider
+          uiTheme={
+            Object {
+              "palette": Object {
+                "accentColor": "#FF7575",
+                "alternateTextColor": "white",
+                "primaryColor": "#FF7575",
+                "primaryTextColor": "black",
+                "secondaryColor": "#CC5D5D",
+              },
+              "spacing": Object {
+                "miniActionButtonSize": 42,
+              },
+              "toolbar": Object {
+                "container": Object {
+                  "height": 50,
+                },
+              },
+              "typography": Object {
+                "fontSize": Object {
+                  "display": 25,
+                },
+                "subheading": Object {
+                  "fontSize": 16,
+                  "fontWeight": "normal",
+                  "lineHeight": 24,
+                },
+              },
+            }
+          }
+        />
+      </View>
+    </View>
+  </RCTScrollView>
+  <ThemeProvider
+    uiTheme={
+      Object {
+        "palette": Object {
+          "accentColor": "#FF7575",
+          "alternateTextColor": "white",
+          "primaryColor": "#FF7575",
+          "primaryTextColor": "black",
+          "secondaryColor": "#CC5D5D",
+        },
+        "spacing": Object {
+          "miniActionButtonSize": 42,
+        },
+        "toolbar": Object {
+          "container": Object {
+            "height": 50,
+          },
+        },
+        "typography": Object {
+          "fontSize": Object {
+            "display": 25,
+          },
+          "subheading": Object {
+            "fontSize": 16,
+            "fontWeight": "normal",
+            "lineHeight": 24,
+          },
+        },
+      }
+    }
+  >
+    <ActionButton
+      icon="mode-edit"
+      onPress={[Function]}
+      style={
+        Object {
+          "container": Object {
+            "backgroundColor": "#CC5D5D",
+            "borderRadius": 21,
+            "elevation": 4,
+            "height": 42,
+            "width": 42,
+          },
+          "positionContainer": Object {
+            "left": 7,
+            "position": "absolute",
+            "top": 99,
+          },
+        }
+      }
+    />
+  </ThemeProvider>
+</View>
+`;
+
+exports[`<EventPage /> should render the accept button when the event needs a volunteer 1`] = `
 <View
   style={
     Object {
